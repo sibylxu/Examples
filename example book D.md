@@ -1,4 +1,5 @@
 **Welcome! SQL is the Structured Query Language, a standard means of communicating with a database. SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database. It is widely used to query sky survey data in astronomy research. This guide provides a brief overview of SQL and query examples are available with comments.**
+
 **欢迎你学习使用巡天数据库中的SQL语言！SQL即结构化查询语言，是与数据库通信的标准方法。SQL语句用于执行更新数据库中的数据或从数据库检索数据等任务。在天文学研究中，它被广泛应用于巡天数据的查询和操作。本手册包含了SQL的简要介绍，你还可以学习一些包含注释的具体查询示例。**
 -----
 **Table of content**
